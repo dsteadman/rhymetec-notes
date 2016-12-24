@@ -17,7 +17,9 @@ Sure, one big text doc is a messy way to keep track of it but I always get bored
 * [Kali Nethunter](https://www.offensive-security.com/kali-linux-nethunter-download/)
 * [RFID Thief](http://www.bishopfox.com/resources/tools/rfid-hacking/attack-tools/)
 ## Websites
-* [AbuseWithUs](http://abusewith.us/)  - leaked database dumps * [DNSHistory.org](https://dnshistory.org/)* [JSFuck](http://www.jsfuck.com/)
+* [AbuseWithUs](http://abusewith.us/)  - leaked database dumps
+* [DNSHistory.org](https://dnshistory.org/)
+* [JSFuck](http://www.jsfuck.com/)
 * [VirusTotal](https://www.virustotal.com/en/) Also has great community and can be used to find researchers
 * [How to ask a question](http://www.catb.org/esr/faqs/smart-questions.html#idp64781136)
 
@@ -31,4 +33,14 @@ Sure, one big text doc is a messy way to keep track of it but I always get bored
 * [Cellebrite](http://www.cellebrite.com/) Cell phone data extraction software
 
 ## Cons
-* [RSA](https://www.rsaconference.com/events/us17) Feb 13-17, 2017* Black Hat* [ToorCon](https://toorcon.net/) Oct 12-16, 2016 - San Diego / Seattle* [InfoSec World](http://infosecworld.misti.com/) April 3-5, 2017 - Orlando* [SANS](https://www.sans.org/event/security-east-2017) Training courses - Jan 9-14, 2017 - NOLA* [DEF CON](https://www.defcon.org/) July 27-30, 2017 - Las Vegas* HackCon* Microsoft BlueHat
+* [RSA](https://www.rsaconference.com/events/us17) Feb 13-17, 2017
+* Black Hat
+* [ToorCon](https://toorcon.net/) Oct 12-16, 2016 - San Diego / Seattle
+* [InfoSec World](http://infosecworld.misti.com/) April 3-5, 2017 - Orlando
+* [SANS](https://www.sans.org/event/security-east-2017) Training courses - Jan 9-14, 2017 - NOLA
+* [DEF CON](https://www.defcon.org/) July 27-30, 2017 - Las Vegas
+* HackCon
+* Microsoft BlueHat
+
+## Exploits
+* [NETGEAR WNR2000](http://securityaffairs.co/wordpress/54647/hacking/netgear-wnr2000-routers-flaw.html) Reboot / RCE
