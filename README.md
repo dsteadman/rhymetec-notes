@@ -16,6 +16,8 @@ Sure, one big text doc is a messy way to keep track of it but I always get bored
 * [pfsense](https://pfsense.org/)
 * [Kali Nethunter](https://www.offensive-security.com/kali-linux-nethunter-download/)
 * [RFID Thief](http://www.bishopfox.com/resources/tools/rfid-hacking/attack-tools/)
+* [Acunetix Manual Pen Testing Tools](http://www.darknet.org.uk/2017/01/free-manual-pen-testing-tools/)
+* [p0wnedShell](http://www.darknet.org.uk/2017/01/p0wnedshell-powershell-runspace-post-exploitation-toolkit/)
 ## Websites
 * [AbuseWithUs](http://abusewith.us/)  - leaked database dumps
 * [DNSHistory.org](https://dnshistory.org/)
