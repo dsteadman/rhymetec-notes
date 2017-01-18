@@ -3,6 +3,9 @@
 A list of neat or funny things/people/services.
 Sure, one big text doc is a messy way to keep track of it but I always get bored with those note taking apps.
 
+## Articles
+* [Kreb's Immutable Truths](https://krebsonsecurity.com/2017/01/krebss-immutable-truths-about-data-breaches/)
+
 ## People
 * [Adrian Lamo](https://www.quora.com/profile/Adri%C3%A1n-Lamo/answers?sort=views)
 * [Chris Valasek](https://www.linkedin.com/in/chrisvalasek) Uber car hacker #1
@@ -18,7 +21,8 @@ Sure, one big text doc is a messy way to keep track of it but I always get bored
 * [Kali Nethunter](https://www.offensive-security.com/kali-linux-nethunter-download/)
 * [RFID Thief](http://www.bishopfox.com/resources/tools/rfid-hacking/attack-tools/)
 * [Acunetix Manual Pen Testing Tools](http://www.darknet.org.uk/2017/01/free-manual-pen-testing-tools/)
-* [p0wnedShell](http://www.darknet.org.uk/2017/01/p0wnedshell-powershell-runspace-post-exploitation-toolkit/)
+* [p0wnedShell](http://www.darknet.org.uk/2017/01/p0wnedshell-powershell-runspace-post-exploitation-toolkit/) Post-exploit Powershell toolkit
+* [Fluxion](http://www.darknet.org.uk/2017/01/fluxion-automated-evilap-attack-tool/) Wireless MiTM toolkit
 
 ## Websites
 * [AbuseWithUs](http://abusewith.us/)  - leaked database dumps
@@ -26,6 +30,7 @@ Sure, one big text doc is a messy way to keep track of it but I always get bored
 * [JSFuck](http://www.jsfuck.com/)
 * [VirusTotal](https://www.virustotal.com/en/) Also has great community and can be used to find researchers
 * [How to ask a question](http://www.catb.org/esr/faqs/smart-questions.html#idp64781136)
+* [Surveillance Self-Defense](https://ssd.eff.org/) ** Good for non-technical people **
 
 ## Hardware
 * [Hakshop](https://hakshop.com/) Lots of neat gadgets
