@@ -54,3 +54,4 @@ Sure, one big text doc is a messy way to keep track of it but I always get bored
 ## Exploits
 * [NETGEAR WNR2000](http://securityaffairs.co/wordpress/54647/hacking/netgear-wnr2000-routers-flaw.html) Reboot / RCE
 * [Netgear routers](https://www.grc.com/sn/sn-590.txt) Search "/cgi-bin/;reboot"
+* [Windows Privilege Escalation Methods](https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/)
