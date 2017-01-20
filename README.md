@@ -11,6 +11,9 @@ Sure, one big text doc is a messy way to keep track of it but I always get bored
 * [Chris Valasek](https://www.linkedin.com/in/chrisvalasek) Uber car hacker #1
 * [Charlie Miller](https://www.linkedin.com/in/charliemiller2) Uber car hacker #2
 
+## Videos / Video Series
+* [Chaos Computer Congress](https://www.youtube.com/user/CCCen)
+
 ## Books
 * [Hacking Exposed Wireless](http://a.co/dy84D0f)
 * [Hacking Exposed Web Applications](http://a.co/9nILTZ0)
