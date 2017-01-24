@@ -13,6 +13,7 @@ Sure, one big text doc is a messy way to keep track of it but I always get bored
 
 ## Videos / Video Series
 * [Chaos Computer Congress](https://www.youtube.com/user/CCCen)
+* [Pwnie Express Wireless Webinar](https://www.pwnieexpress.com/wireless-networks-devices-webinar-thank-you)
 
 ## Books
 * [Hacking Exposed Wireless](http://a.co/dy84D0f)
