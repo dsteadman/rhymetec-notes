@@ -7,6 +7,7 @@ Sure, one big text doc is a messy way to keep track of it but I always get bored
 * [Kreb's Immutable Truths](https://krebsonsecurity.com/2017/01/krebss-immutable-truths-about-data-breaches/)
 
 ## People
+* [Larry Pesce](https://www.sans.org/instructors/larry-pesce) IoT & wireless auditing
 * [Adrian Lamo](https://www.quora.com/profile/Adri%C3%A1n-Lamo/answers?sort=views)
 * [Chris Valasek](https://www.linkedin.com/in/chrisvalasek) Uber car hacker #1
 * [Charlie Miller](https://www.linkedin.com/in/charliemiller2) Uber car hacker #2
