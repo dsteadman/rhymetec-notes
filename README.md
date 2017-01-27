@@ -38,6 +38,7 @@ Sure, one big text doc is a messy way to keep track of it but I always get bored
 * [Surveillance Self-Defense](https://ssd.eff.org/) ** Good for non-technical people **
 
 ## Hardware
+* [Wifi Pineapple](https://wifipineapple.com/)
 * [Hakshop](https://hakshop.com/) Lots of neat gadgets
 * [MultiBlue Dongle](http://a.co/3gU67rn)
 * [USB Rubber Ducky](https://hakshop.com/products/usb-rubber-ducky-deluxe)
@@ -45,6 +46,7 @@ Sure, one big text doc is a messy way to keep track of it but I always get bored
 ## Companies
 * [Red Balloon Security](https://www.redballoonsecurity.com/) NYC researchers
 * [Cellebrite](http://www.cellebrite.com/) Cell phone data extraction software
+* [InGuardians](http://www.inguardians.com/)
 
 ## Cons
 * [RSA](https://www.rsaconference.com/events/us17) Feb 13-17, 2017
