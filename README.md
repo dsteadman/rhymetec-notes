@@ -35,7 +35,8 @@ Sure, one big text doc is a messy way to keep track of it but I always get bored
 * [JSFuck](http://www.jsfuck.com/)
 * [VirusTotal](https://www.virustotal.com/en/) Also has great community and can be used to find researchers
 * [How to ask a question](http://www.catb.org/esr/faqs/smart-questions.html#idp64781136)
-* [Surveillance Self-Defense](https://ssd.eff.org/) ** Good for non-technical people **
+* [SSD - Surveillance Self-Defense](https://ssd.eff.org/) ** Good for non-technical people **
+* [AntiPhishing.org](http://www.antiphishing.org/) Client advice
 
 ## Hardware
 * [Wifi Pineapple](https://wifipineapple.com/)
